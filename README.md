@@ -1,2 +1,2 @@
 # Classification-models
-Regression models creation along the uni course
+Classification models creation along the uni course
